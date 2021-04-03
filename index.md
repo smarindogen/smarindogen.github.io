@@ -4,6 +4,6 @@
 	<meta charset="UTF-8">
 	<tittle>Politica privacidad</tittle>
 </head>
-
+<body>
 </body>
 </html>
