@@ -1,1 +1,0 @@
-# smarindogen.github.io
